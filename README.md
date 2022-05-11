@@ -4,13 +4,13 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    Welcome to Mahadi profile  
+    Welcome to MrDark profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mahadi+Hasan+Afridi;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mr+Dark+YT;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
  
 </p>
  
@@ -18,11 +18,11 @@
  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdarkyt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MAHADI-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MAHADI-143&theme=monokai"></a>
+<a href="https://github.com/MrDarkYT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrDarkYT&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
