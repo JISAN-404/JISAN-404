@@ -96,8 +96,8 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MAHADI-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Mr Dark&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MAHADI HASAN AFRIDI's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
@@ -115,10 +115,10 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/MAHADI-143/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MAHADI-143&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MrDarkYT/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MAHADI-143&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Pro&theme=vision-friendly-dark">
+<a href="https://github.com/MrDarkYT/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Pro&theme=vision-friendly-dark">
  
 </a>
 <a href="https://github.com/MAHADI-143/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=2009&theme=vision-friendly-dark">
