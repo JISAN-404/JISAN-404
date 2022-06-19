@@ -59,7 +59,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐫𝐃𝐚𝐫𝐤𝐘𝐓](https://github.com/MrDarkYT)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [JISAN-404](https://github.com/JISAN-404)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
