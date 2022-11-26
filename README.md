@@ -4,7 +4,7 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    Welcome to MrDark profile  
+    JISAN-404 (MR-DARK)
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
@@ -18,11 +18,11 @@
  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdarkyt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JISAN-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="JISAN-404" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MrDarkYT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrDarkYT&theme=monokai"></a>
+<a href="https://github.com/JISAN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=JISAN-404&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -51,11 +51,11 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MOHAMMAD JISAN](https://www.facebook.com/JISAN0120)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MOHAMMAD JISAN](https://www.facebook.com/JISAN0234)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [TERMUX EXPERTS](https://www.facebook.com/ExpertsKing/)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [MR DARK](https://www.facebook.com/ExpertsKing/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -67,11 +67,6 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
- 
-[![Instagram](https://img.shields.io/badge/IG-%40jisan_111-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/its_afridi.143)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/JISAN0120)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/JISAN0120)
-[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MrDarkYT)
  
 ### ⚙️   Language & programming
  
@@ -96,12 +91,12 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/JISAN-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MrDarkYT GitHub stats"/></td> </a>
+    <td valign="top"><a href="https://github.com/JISAN-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=JISAN-404&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="JISAN-404 GitHub stats"/></td> </a>
     <td valign="top"> <a href="https://github.com/JISAN-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISAN-404layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MrDarkYT&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=JISAN-404&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mahadi's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -117,10 +112,3 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/JISAN-404/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JISAN-404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
-
-
-
-
-
-
-
