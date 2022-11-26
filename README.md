@@ -96,8 +96,8 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MrDarkYT GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MrDarkYT/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/JISAN-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MrDarkYT&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MrDarkYT GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/JISAN-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISAN-404layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
@@ -109,13 +109,13 @@
  
 ### Profile Visitors
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MrDarkYT.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JISAN-404.visitor-badge&left_color=blue&right_color=yellow)
 <br />
  
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/MrDarkYT/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MrDarkYT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/JISAN-404/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JISAN-404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 
 
